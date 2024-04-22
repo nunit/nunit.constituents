@@ -9,7 +9,6 @@ This is to avoid breaking changes and to ensure that we are not breaking any exi
 | Project Name | Source repo |Downloads | Usage of NUnit[^1] | NUnit version  |   Maintainer(s) or Contact(s) |
 |--------------|-------------|-----------|---------------|--------|-------|
 |FluentAssertions|[Github](https://www.nuget.org/packages/FluentAssertions)|![NuGet Downloads](https://img.shields.io/nuget/dt/FluentAssertions)||3.14.0, 4.1.0|[Dennis Doomen](https://github.com/dennisdoomen)|
-|Shouldly|[Github](https://github.com/shouldly/shouldly)|![NuGet Downloads](https://img.shields.io/nuget/dt/Shouldly)|||[Joseph Musser](https://github.com/jnm2)|
 |SpecFlow.NUnit|[Github](https://www.nuget.org/packages/SpecFlow.NUnit/)|![NuGet Downloads](https://img.shields.io/nuget/dt/Specflow.Nunit)||||
 |Xamarin.UITest|Closed source|![NuGet Downloads](https://img.shields.io/nuget/dt/Xamarin.UITest)|||Microsoft|
 |Verify|[Github](https://github.com/VerifyTests/Verify)|![NuGet Downloads](https://img.shields.io/nuget/dt/Verify)|||[Simon Cropp](https://github.com/SimonCropp)|
