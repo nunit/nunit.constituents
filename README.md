@@ -18,6 +18,7 @@ This is to avoid breaking changes and to ensure that we are not breaking any exi
 |AwesomeAssertions|[Github](https://github.com/AwesomeAssertions/AwesomeAssertions)|![NuGet Downloads](https://img.shields.io/nuget/dt/AwesomeAssertions)|||[Christoph Bersch](https://github.com/cbersch)|
 
 [!NOTE]
+
 This list should contain only highly used projects. If you are not sure, please reach out to the NUnit team for guidance.
 
 
