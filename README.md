@@ -15,7 +15,7 @@ This is to avoid breaking changes and to ensure that we are not breaking any exi
 |AutoFixture.NUnit3|[Github](https://github.com/AutoFixture/AutoFixture)|![NuGet Downloads](https://img.shields.io/nuget/dt/AutoFixture.NUnit3)||3.7.0, 4.0.0|[Mark Seemann](https://github.com/ploeh)|
 |Microsoft.Playwright.NUnit|[Github](https://github.com/microsoft/playwright-dotnet)|![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.Playwright.NUnit)|||Microsoft|
 |Akka.TestKit|[Github](https://github.com/akkadotnet/akka.net)|![NuGet Downloads](https://img.shields.io/nuget/dt/Akka.TestKit)||||
-|||||||
+|AwesomeAssertions|[Github](https://github.com/AwesomeAssertions/AwesomeAssertions)|![NuGet Downloads](https://img.shields.io/nuget/dt/AwesomeAssertions)|[Christoph Bersch](https://github.com/cbersch)|||
 
 [!NOTE]
 This list should contain only highly used projects. If you are not sure, please reach out to the NUnit team for guidance.
